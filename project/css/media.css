@@ -1,0 +1,73 @@
+@media  screen and (max-width: 768px){
+.wrapper{
+      text-align: center;
+      font-size: 14px;
+     }
+.container {
+        width: 100%;
+        margin: auto;
+        box-sizing: border-box;
+    }
+.alena-brendiv {
+        max-height: 70px;
+    }
+.description{
+        margin: -10px;
+        position: relative;
+        text-align: center;    
+    }
+.header{
+        flex-wrap: nowrap;
+        font-size: 15px;
+    }
+.title{
+        text-align: center;
+        font-size: 15px;
+        margin-bottom: 2.7rem;
+    }
+.columns{
+     display: inline-block; 
+     text-align: center;
+     width: 100%;
+    }
+.column{
+        width: 100%;
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: column;
+        margin: 10;
+        padding: 20;
+        border: 10;
+    }
+.date{
+    margin-top: 20px;
+}
+.foto1 {
+        width: 100%;
+        margin-top: -20px;
+    }
+.partner{
+    margin-top: 20px;
+    font-size: 12px;
+}
+.partner1{
+    text-align: center;
+    width: 100%;
+    display: contents;
+    }
+.gustov{
+    height: 65px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 2px;
+}
+h4{
+    font-size: 10px;  
+    
+}
+.end{
+        text-align: center; 
+        font-size: 10px;
+        margin-top: -25px;
+     }
+  }
